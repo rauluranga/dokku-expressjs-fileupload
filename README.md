@@ -16,3 +16,8 @@ Install
 
 for debug messages
 * run ```DEBUG=express:* node app.js```
+
+
+Deploy
+-------
+dokku
